@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  my-chart:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-12-26T12:03:54.0227835+09:00"
+    description: A Helm chart for Kubernetes
+    digest: 309602b917835ca9e65a574b85086774b2557e5890948c2cdaadb72c8bf99646
+    name: my-chart
+    type: application
+    urls:
+    - https://john3210of.github.io/gitops-cookbook-sc/my-chart-0.1.0.tgz
+    version: 0.1.0
+generated: "2024-12-26T12:03:54.0217644+09:00"
